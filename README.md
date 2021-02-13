@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/serdaraksoy1)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/drokbers" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @drokbers on GitHub">Follow @drokbers</a>
 <!--
 **drokbers/drokbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drokbers&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drokbers&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
