@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently searching for a job<br>🌱 I’m currently TypeScript<br>📫 How to reach me: aksoyserdarjob@gmail.com
+🔭  I’m currently searching for a job<br>📫 How to reach me: aksoyserdarjob@gmail.com
 
 
 ## 🌐 Socials:
