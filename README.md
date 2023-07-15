@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭  I’m currently searching for a job<br>📫 How to reach me: aksoyserdarjob@gmail.com
+🔭  I’m currently searching for a job<br>📫 How to reach me: aksoyserdarjob@gmail.com<br>
+👨‍💻  Currently working on this project: [BeatAtlas](https://github.com/drokbers/BeatAtlas) 
 
 
 ## 🌐 Socials:
