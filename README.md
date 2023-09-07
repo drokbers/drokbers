@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭  I’m currently searching for a job<br>📫 How to reach me: aksoyserdarjob@gmail.com<br>
-👨‍💻  Currently working on this project: [BeatAtlas](https://github.com/drokbers/BeatAtlas) 
+👨‍💻  Currently working on this project: [E-commerce Platform](https://github.com/drokbers/E-commerce) and [BeatAtlas](https://github.com/drokbers/BeatAtlas) 
 
 
 ## 🌐 Socials:
