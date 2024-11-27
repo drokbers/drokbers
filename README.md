@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭  I’m currently searching for a job<br>📫 How to reach me: aksoyserdarjob@gmail.com<br>
-👨‍💻  Currently working on this project: [Wobo AI](https://www.wobo.ai) 
+
 
 
 ## 🌐 Socials:
