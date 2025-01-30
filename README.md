@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭  I’m currently searching for a job<br>📫 How to reach me: aksoyserdarjob@gmail.com<br>
+🔭  Helping people land their dream jobs!<br>📫 How to reach me: serdar@wobo.ai<br>
 
 
 
